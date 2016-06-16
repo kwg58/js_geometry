@@ -16,6 +16,9 @@ var calculator = {
   },
   maxi: function(m1, m2) {
     return Math.max(m2, m2)
+  },
+  maxi2: function(m1, m2) {  //put in to force a push for git
+    return Math.max(m2, m2)
   }
 }
 //add a comment so there's some kind of change for the recommit
